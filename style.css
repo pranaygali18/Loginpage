@@ -1,0 +1,50 @@
+html{
+    height: 100%;
+}
+
+body{
+    background-color: rgb(0, 0, 0,0.338);
+}
+.Container{
+    width: 700px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    color: black;
+    /* background-color: rgba(174, 117, 48, 0.752);*/
+    background-image: url(/Images/colored-7292420_1920.jpg);
+}
+
+h2{
+    text-decoration: underline;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+main{
+    height: 400px;
+    padding-top:30px;
+    
+}
+footer{
+    height: 50px;
+    font-size: 11px;
+}
+
+p{
+    margin-left: 450px;
+}
+a{
+    color: black;
+    text-decoration: underline;
+    font-size: 13px;
+}
